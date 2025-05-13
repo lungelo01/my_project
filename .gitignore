@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.mo
+*.swp
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Sphinx documentation
+docs/_build/
