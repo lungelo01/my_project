@@ -1,10 +1,10 @@
-.. the_blues_brothers documentation master file, created by
-   sphinx-quickstart on Wed May 14 01:25:39 2025.
+.. myproject documentation master file, created by
+   sphinx-quickstart on Wed May 14 19:59:38 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-the_blues_brothers documentation
-================================
+myproject documentation
+=======================
 
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
@@ -15,3 +15,4 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+   modules

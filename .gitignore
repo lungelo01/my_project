@@ -1,28 +1,30 @@
-
-# Python
+# Python bytecode
 __pycache__/
 *.py[cod]
-*.sqlite3
 
 # Virtual environments
 venv/
 env/
+ENV/
+.venv/
+.env/
 
-# Django stuff:
-*.log
-*.pot
-*.pyc
-*.pyo
-*.db
+# Django migrations
+**/migrations/
+
+# SQLite database
 *.sqlite3
-*.mo
-*.swp
 
-# VS Code
-.vscode/
+# Logs
+*.log
 
-# macOS
+# OS-specific files
 .DS_Store
+Thumbs.db
 
-# Sphinx documentation
-docs/_build/
+# IDE/editor configurations
+.vscode/
+.idea/
+
+# Environment variables
+.env
