@@ -17,7 +17,7 @@ django.setup()
 project = 'the_blues_brothers'
 copyright = '2025, Lungelo'
 author = 'Lungelo'
-release = '00.00.001'
+release = '00.00.01'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
