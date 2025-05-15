@@ -2,10 +2,5 @@
 
 ## Setup with Virtual Environment
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your_username/your_repo.git
-   cd your_repo
-"# my_project" 
-"# my_project" 
+# Clone the repository
+git clone https://github.com/lungelo01/yourproject.git
